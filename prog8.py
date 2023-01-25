@@ -68,4 +68,4 @@ print(f"az elvégzendő műveletek száma : {e} művelet")
 print(f"A megfejtés ideje: {ido} ezredmásodperc")
 
 for db in range(3,11):
-    print(f"a megfejtés ideje {db} karakter esetén: {meres(db)} ezredmásodperc")
+    print(f"a megfejtés ideje {db} karakter esetén: {meres(db)} ezredmásodperc") 
